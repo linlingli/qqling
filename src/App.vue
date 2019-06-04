@@ -2,7 +2,7 @@
   <div id="app">
     <!--logo title-->
     <div class="header">
-      <h1 class="title">商品管理</h1>
+      <h1 class="title">宅宅廚房</h1>
 
     </div>
 
@@ -61,7 +61,7 @@
         },
         goodsArry: [
           {name: '誠實豆沙包', price: 666, num: 10},
-          {name: '謊言棒棒糖', price: 999, num: 20},
+          {name: '宅宅蔥油餅', price: 999, num: 20},
           {name: '大俠漢寶寶', price: 8787, num: 30}
         ]
       }
